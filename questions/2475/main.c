@@ -1,4 +1,8 @@
 
+//question name: 검증수
+//question number: 2475
+//status: correct
+
 #include <stdio.h>
 
 int	sqrot(int a)

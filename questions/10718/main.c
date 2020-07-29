@@ -1,4 +1,9 @@
 
+//question name: We love kriii
+//question number: 10718
+//incomplete
+
+
 #include <stdio.h>
 
 int	main(void)

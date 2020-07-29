@@ -1,4 +1,8 @@
 
+//question name: 16진수
+//question number: 1550
+//status: correct
+
 #include <stdio.h>
 #include <stdlib.h>
 

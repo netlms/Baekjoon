@@ -1,4 +1,8 @@
 
+//question name: 엄청난 부자2
+//question number: 1271
+//status: incorrect
+
 #include <stdio.h>
 
 int	main(void)
