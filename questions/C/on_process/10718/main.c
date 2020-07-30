@@ -1,7 +1,7 @@
 
 //question name: We love kriii
 //question number: 10718
-//incomplete
+//status: incomplete
 
 
 #include <stdio.h>
