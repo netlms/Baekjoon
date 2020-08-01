@@ -1,3 +1,4 @@
+ls
 
 //question name: 긴자리 계산
 //question number: 2338
